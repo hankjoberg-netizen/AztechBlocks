@@ -1,1 +1,58 @@
-
+[
+  {
+    "id": 1,
+    "name": "Aurora S260 RGB Speaker Lamp",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800",
+    "description": "Compact Bluetooth speaker with integrated RGB desk lamp and ambient modes."
+  },
+  {
+    "id": 2,
+    "name": "MagCharge 5K Slim Power Bank",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=800",
+    "description": "Ultra-slim magnetic 5000mAh power bank for modern smartphones; fast wireless charge."
+  },
+  {
+    "id": 3,
+    "name": "GlowClock RGB Alarm Speaker",
+    "price": 44.99,
+    "image": "https://images.unsplash.com/photo-1527443154391-507e9dc6c5cc?w=800",
+    "description": "Bedside alarm clock with Bluetooth speaker and multicolor night light."
+  },
+  {
+    "id": 4,
+    "name": "VoltPack 10K Magnetic Power Bank (PD20W)",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1526045612212-70caf35c14df?w=800",
+    "description": "10000mAh magnetic battery with USB-C PD 20W and clear LED display."
+  },
+  {
+    "id": 5,
+    "name": "Nova Metal Desk Lamp Speaker",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?w=800",
+    "description": "Modern desk lamp with full-range speaker and warm tone lighting."
+  },
+  {
+    "id": 6,
+    "name": "Halo Wireless Night Light Speaker",
+    "price": 54.99,
+    "image": "https://images.unsplash.com/photo-1512499617640-c2f999098c67?w=800",
+    "description": "Soft halo glow + Bluetooth speaker; touch controls for brightness and playback."
+  },
+  {
+    "id": 7,
+    "name": "Feather 5K Ultra-Thin Power Bank",
+    "price": 42.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+    "description": "Credit-card thin 5000mAh bank with USB-C in/out; airline friendly."
+  },
+  {
+    "id": 8,
+    "name": "StandMag 5K Power Bank (Kickstand)",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800",
+    "description": "Magnetic snap + fold-out stand; watch and charge in landscape or portrait."
+  }
+]
